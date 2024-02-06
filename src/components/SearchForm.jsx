@@ -27,7 +27,7 @@ function SearchForm() {
   //RETURN
   return (
     <section>
-      <h1 className='title'>unsplash image</h1>
+      <h1 className='title'>Glen's Search Engine</h1>
       <form className='search-form' onSubmit={handleSubmit}>
         <input
           type='text'
